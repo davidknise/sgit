@@ -6,6 +6,7 @@ Super git! A powershell wrapper around git for performing common operations.
 
 1. Clone the repo
 1. Add `sgit.ps1` to your PATH
+1. Open a PowerShell command prompt
 1. Run `sgit` commands
 
 **Note:** I'll integrate help at some point, but right now, I just look at the file if I forget the commands or inputs.
